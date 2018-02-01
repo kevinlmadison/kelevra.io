@@ -1,0 +1,8 @@
+kelevra.io {
+  tls coolklm121@gmail.com
+
+  log / stdout {combined}
+  errors stderr
+
+  proxy / http://web:8080
+}

@@ -1,0 +1,5 @@
+:8080 {
+  tls coolklm121@gmail.com {
+    dns namecheap
+  }
+}
