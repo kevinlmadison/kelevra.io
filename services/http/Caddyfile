@@ -6,7 +6,7 @@ http://kelevra.io {
     proxy / localhost:443
 }
 
-kelevra.io {
+www.kelevra.io {
   tls coolklm121@gmail.com
 
   log / stdout {combined}
