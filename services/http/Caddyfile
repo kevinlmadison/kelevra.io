@@ -1,4 +1,10 @@
-redir https://kelevra.io
+http://kelevra.io {
+    tls coolklm121@gmail.com {
+        dns namecheap
+    }
+
+    proxy / localhost:443
+}
 
 kelevra.io {
   tls coolklm121@gmail.com
