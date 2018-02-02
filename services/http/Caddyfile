@@ -2,11 +2,12 @@ http://kelevra.io {
     tls coolklm121@gmail.com {
         dns namecheap
     }
+    redir https://kelevra.io
 
-    proxy / localhost:443
+    #proxy / localhost:443
 }
 
-www.kelevra.io {
+kelevra.io {
   tls coolklm121@gmail.com
 
   log / stdout {combined}
