@@ -1,0 +1,2 @@
+docker pull kevinlmadison/site
+./docker-compose up&
