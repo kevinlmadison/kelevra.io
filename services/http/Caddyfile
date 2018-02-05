@@ -1,4 +1,4 @@
-http://kelevra.io {
+http://kelevra.io, http://www.kelevra.io {
     tls coolklm121@gmail.com {
         dns namecheap
     }
